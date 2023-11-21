@@ -1,21 +1,23 @@
 /* display background color black on navbar scroll */
 .navbarScroll.navbarDark {
-    background-color: black;
+    background-color: darkblue;
 }
 
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url('images/heroImage.jpeg');
+    background: url('images/1730939.png');
     background-size:cover;
     position:relative;
 }
 /* text css above hero image*/
 .hero_title {
     font-size: 4.5rem;
+    color: rgba(83, 41, 41, 0.915);
 }
 .hero_desc {
     font-size: 2rem;
+    color: rgba(83, 41, 41, 0.915);
 }
 .hero-text {
     text-align: center;
@@ -70,8 +72,17 @@
 .fab {
     color: #000000;
 }
+/*Contact Me*/
+.contactme {
+color: beige;
+text-decoration: none;
+}
+
 /* footer styling */
 #footer {
     background-color: #808080;
     text-align: center;
+}
+.text-center {
+    color: blue;
 }
