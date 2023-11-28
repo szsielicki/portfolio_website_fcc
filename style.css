@@ -69,6 +69,7 @@
     border: 1px solid #008000;
 }
 
+
 /* social media icons styling */
 .social-icons {
     font-size: 36px;
@@ -101,4 +102,8 @@
 
 .text-center {
     color: blue;
+}
+
+.card-title mt-3 {
+    text-decoration: none;
 }
